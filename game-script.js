@@ -44,11 +44,7 @@ function gameScript() {
 
     };
 
-    // DONT TOUCH THE CODE BELOW
-
-    // THIS IS NOT USER DEFINED FUNCTIONS 
-
-    // TECHNICALLY IT IS BUT IT YOU ARE THE USER :D
+    // DONT MODIFY THE CODE BELOW
 
     this.run = function () {
         if (switchSlides === true) {
